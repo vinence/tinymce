@@ -403,7 +403,7 @@ pre[class*="language-"] {
   position: absolute;
   top: -11px;
   white-space: nowrap;
-  z-index: 1000;
+  z-index: 9000;
 }
 .tox-rtc-user-selection--1 .tox-rtc-user-cursor {
   background-color: #2dc26b;

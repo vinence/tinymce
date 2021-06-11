@@ -25,12 +25,12 @@ body.tox-dialog__disable-scroll {
   display: none;
 }
 .tox.tox-tinymce.tox-fullscreen {
-  z-index: 1200;
+  z-index: 9200;
 }
 .tox-shadowhost.tox-fullscreen {
-  z-index: 1200;
+  z-index: 9200;
 }
 .tox-fullscreen .tox.tox-tinymce-aux,
 .tox-fullscreen ~ .tox.tox-tinymce-aux {
-  z-index: 1201;
+  z-index: 9201;
 }
